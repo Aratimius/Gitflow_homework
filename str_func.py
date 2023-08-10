@@ -4,6 +4,6 @@ def get_upper_str(line):
     return line.upper()
 
 def get_title_str(line):
-    """Return line with first letters caps!!"""
+    """Return line with first letters caps"""
 
     return line.title()
